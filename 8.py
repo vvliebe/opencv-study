@@ -9,7 +9,7 @@ __author__ = 'vvliebe'
 # 低通滤波器可以让图像变得光滑,滤波图像中的噪声
 
 # 常见的低通滤波器 blur 函数, 高斯模糊, 中值滤波
-# 高通滤波器  Sobel算子  Laplacian 算子
+# 高通滤波器  Sobel算子  Laplacian 算子 Canny 算子
 
 # blur函数
 
